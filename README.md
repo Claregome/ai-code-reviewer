@@ -31,12 +31,4 @@ The project uses a locally running Large Language Model via Ollama, making it co
 - Ollama (local LLM runtime)
 - LLaMA 3 model
 
----
 
-## 📦 Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ai-code-reviewer.git
-cd ai-code-reviewer
